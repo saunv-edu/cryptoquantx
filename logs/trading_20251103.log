@@ -1,0 +1,1561 @@
+2025-11-03 09:05:13 - trading_system - INFO - [main.py:13] - Setting up Crypto Trading System...
+2025-11-03 09:05:13 - trading_system - INFO - [main.py:20] - Environment setup completed successfully!
+2025-11-03 09:05:13 - trading_system - INFO - [main.py:40] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:05:13 - trading_system - INFO - [main.py:43] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:05:13 - trading_system - INFO - [db_manager.py:25] - Database tables created successfully
+2025-11-03 09:05:13 - trading_system - INFO - [main.py:30] - Starting historical data collection...
+2025-11-03 09:05:14 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:05:14 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ETHUSDT 15m
+2025-11-03 09:05:14 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:05:14 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ADAUSDT 15m
+2025-11-03 09:05:14 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for BTCUSDT 15m
+2025-11-03 09:05:14 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:05:14 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:05:14 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:05:14 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:05:14 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:05:14 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:05:15 - trading_system - INFO - [db_manager.py:58] - Processed 672 klines
+2025-11-03 09:05:15 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:05:15 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:05:15 - trading_system - INFO - [db_manager.py:58] - Processed 672 klines
+2025-11-03 09:05:16 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:05:16 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:05:16 - trading_system - INFO - [db_manager.py:58] - Processed 672 klines
+2025-11-03 09:05:16 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 8016
+2025-11-03 09:05:16 - trading_system - INFO - [main.py:32] - Historical data collection completed!
+2025-11-03 09:05:16 - trading_system - INFO - [main.py:47] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:05:16 - trading_system - INFO - [main.py:50] - ✅ System initialization completed!
+2025-11-03 09:08:40 - trading_system - INFO - [main.py:66] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:08:40 - trading_system - INFO - [main.py:69] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:08:40 - trading_system - INFO - [db_manager.py:25] - Database tables created successfully
+2025-11-03 09:08:40 - trading_system - INFO - [main.py:19] - Starting historical data collection...
+2025-11-03 09:08:40 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:08:40 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ETHUSDT 15m
+2025-11-03 09:08:40 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:08:40 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ADAUSDT 15m
+2025-11-03 09:08:40 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:08:40 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for BTCUSDT 15m
+2025-11-03 09:08:40 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:08:40 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:08:40 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:08:40 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:08:40 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:08:41 - trading_system - INFO - [db_manager.py:58] - Processed 672 klines
+2025-11-03 09:08:41 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:08:41 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:08:41 - trading_system - INFO - [db_manager.py:58] - Processed 672 klines
+2025-11-03 09:08:41 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:08:42 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:08:42 - trading_system - INFO - [db_manager.py:58] - Processed 672 klines
+2025-11-03 09:08:42 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 8016
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:21] - Historical data collection completed!
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:73] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:08:42 - trading_system - INFO - [db_manager.py:25] - Database tables created successfully
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:28] - Starting indicator calculation...
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:32] - Calculating indicators for BTCUSDT 1m...
+2025-11-03 09:08:42 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:08:42 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for BTCUSDT 1m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:32] - Calculating indicators for BTCUSDT 5m...
+2025-11-03 09:08:42 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:08:42 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for BTCUSDT 5m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:32] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:08:42 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:08:42 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for BTCUSDT 15m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:32] - Calculating indicators for ETHUSDT 1m...
+2025-11-03 09:08:42 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:08:42 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ETHUSDT 1m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:32] - Calculating indicators for ETHUSDT 5m...
+2025-11-03 09:08:42 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:08:42 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ETHUSDT 5m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:32] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:08:42 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:08:42 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ETHUSDT 15m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:32] - Calculating indicators for ADAUSDT 1m...
+2025-11-03 09:08:42 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:08:42 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ADAUSDT 1m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:32] - Calculating indicators for ADAUSDT 5m...
+2025-11-03 09:08:42 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:08:42 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ADAUSDT 5m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:32] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 09:08:42 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:08:42 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ADAUSDT 15m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:35] - Indicator calculation completed!
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:77] - 🎯 Step 3: Testing strategies...
+2025-11-03 09:08:42 - trading_system - INFO - [main.py:42] - Testing trading strategies...
+2025-11-03 09:08:42 - trading_system - INFO - [db_manager.py:25] - Database tables created successfully
+2025-11-03 09:08:42 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:08:42 - trading_system - ERROR - [main.py:83] - ❌ Error running system: bad operand type for unary ~: 'float'
+2025-11-03 09:09:05 - trading_system - INFO - [main.py:66] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:09:05 - trading_system - INFO - [main.py:69] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:09:05 - trading_system - INFO - [db_manager.py:25] - Database tables created successfully
+2025-11-03 09:09:05 - trading_system - INFO - [main.py:19] - Starting historical data collection...
+2025-11-03 09:09:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ETHUSDT 15m
+2025-11-03 09:09:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:09:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:09:06 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:09:06 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ADAUSDT 15m
+2025-11-03 09:09:06 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:09:06 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for BTCUSDT 15m
+2025-11-03 09:09:06 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:09:06 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:09:06 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:09:06 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:09:06 - trading_system - INFO - [db_manager.py:58] - Processed 672 klines
+2025-11-03 09:09:07 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:09:07 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:09:07 - trading_system - INFO - [db_manager.py:58] - Processed 672 klines
+2025-11-03 09:09:07 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:09:08 - trading_system - INFO - [db_manager.py:58] - Processed 1000 klines
+2025-11-03 09:09:08 - trading_system - INFO - [db_manager.py:58] - Processed 672 klines
+2025-11-03 09:09:08 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 8016
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:21] - Historical data collection completed!
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:73] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:09:08 - trading_system - INFO - [db_manager.py:25] - Database tables created successfully
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:28] - Starting indicator calculation...
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:32] - Calculating indicators for BTCUSDT 1m...
+2025-11-03 09:09:08 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:09:08 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for BTCUSDT 1m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:32] - Calculating indicators for BTCUSDT 5m...
+2025-11-03 09:09:08 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:09:08 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for BTCUSDT 5m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:32] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:09:08 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:09:08 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for BTCUSDT 15m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:32] - Calculating indicators for ETHUSDT 1m...
+2025-11-03 09:09:08 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:09:08 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ETHUSDT 1m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:32] - Calculating indicators for ETHUSDT 5m...
+2025-11-03 09:09:08 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:09:08 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ETHUSDT 5m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:32] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:09:08 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:09:08 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ETHUSDT 15m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:32] - Calculating indicators for ADAUSDT 1m...
+2025-11-03 09:09:08 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:09:08 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ADAUSDT 1m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:32] - Calculating indicators for ADAUSDT 5m...
+2025-11-03 09:09:08 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:09:08 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ADAUSDT 5m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:32] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 09:09:08 - trading_system - INFO - [indicator_calculator.py:33] - Calculated 22 indicators
+2025-11-03 09:09:08 - trading_system - ERROR - [db_manager.py:39] - Database session error: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - ERROR - [indicator_calculator.py:120] - Error calculating indicators for ADAUSDT 15m: 'DatabaseManager' object has no attribute 'Indicator'
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:35] - Indicator calculation completed!
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:77] - 🎯 Step 3: Testing strategies...
+2025-11-03 09:09:08 - trading_system - INFO - [main.py:42] - Testing trading strategies...
+2025-11-03 09:09:08 - trading_system - INFO - [db_manager.py:25] - Database tables created successfully
+2025-11-03 09:09:08 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:09:08 - trading_system - ERROR - [main.py:83] - ❌ Error running system: bad operand type for unary ~: 'float'
+2025-11-03 09:15:27 - trading_system - INFO - [main.py:66] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:15:27 - trading_system - INFO - [main.py:69] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:15:27 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:15:27 - trading_system - INFO - [main.py:19] - Starting historical data collection...
+2025-11-03 09:15:27 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ETHUSDT 15m
+2025-11-03 09:15:27 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:15:27 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for BTCUSDT 15m
+2025-11-03 09:15:27 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ADAUSDT 15m
+2025-11-03 09:15:27 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:15:27 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:15:27 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:15:27 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:15:27 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:15:28 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:15:28 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:15:28 - trading_system - INFO - [db_manager.py:64] - Processed 672 klines
+2025-11-03 09:15:28 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:15:29 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:15:29 - trading_system - INFO - [db_manager.py:64] - Processed 672 klines
+2025-11-03 09:15:29 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:15:29 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:15:29 - trading_system - INFO - [db_manager.py:64] - Processed 672 klines
+2025-11-03 09:15:29 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 8016
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:21] - Historical data collection completed!
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:73] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:15:29 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:28] - Starting indicator calculation...
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:32] - Calculating indicators for BTCUSDT 1m...
+2025-11-03 09:15:29 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:15:29 - trading_system - ERROR - [db_manager.py:45] - Database session error: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - ERROR - [indicator_calculator.py:137] - Error calculating indicators for BTCUSDT 1m: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:32] - Calculating indicators for BTCUSDT 5m...
+2025-11-03 09:15:29 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:15:29 - trading_system - ERROR - [db_manager.py:45] - Database session error: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - ERROR - [indicator_calculator.py:137] - Error calculating indicators for BTCUSDT 5m: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:32] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:15:29 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:15:29 - trading_system - ERROR - [db_manager.py:45] - Database session error: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - ERROR - [indicator_calculator.py:137] - Error calculating indicators for BTCUSDT 15m: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:32] - Calculating indicators for ETHUSDT 1m...
+2025-11-03 09:15:29 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:15:29 - trading_system - ERROR - [db_manager.py:45] - Database session error: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - ERROR - [indicator_calculator.py:137] - Error calculating indicators for ETHUSDT 1m: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:32] - Calculating indicators for ETHUSDT 5m...
+2025-11-03 09:15:29 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:15:29 - trading_system - ERROR - [db_manager.py:45] - Database session error: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - ERROR - [indicator_calculator.py:137] - Error calculating indicators for ETHUSDT 5m: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:32] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:15:29 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:15:29 - trading_system - ERROR - [db_manager.py:45] - Database session error: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - ERROR - [indicator_calculator.py:137] - Error calculating indicators for ETHUSDT 15m: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:29 - trading_system - INFO - [main.py:32] - Calculating indicators for ADAUSDT 1m...
+2025-11-03 09:15:29 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:15:30 - trading_system - ERROR - [db_manager.py:45] - Database session error: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:30 - trading_system - ERROR - [indicator_calculator.py:137] - Error calculating indicators for ADAUSDT 1m: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:32] - Calculating indicators for ADAUSDT 5m...
+2025-11-03 09:15:30 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:15:30 - trading_system - ERROR - [db_manager.py:45] - Database session error: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:30 - trading_system - ERROR - [indicator_calculator.py:137] - Error calculating indicators for ADAUSDT 5m: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:32] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 09:15:30 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:15:30 - trading_system - ERROR - [db_manager.py:45] - Database session error: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:30 - trading_system - ERROR - [indicator_calculator.py:137] - Error calculating indicators for ADAUSDT 15m: 'stoch_k' is an invalid keyword argument for Indicator
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:35] - Indicator calculation completed!
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:77] - 🎯 Step 3: Testing strategies...
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:42] - Testing trading strategies...
+2025-11-03 09:15:30 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:15:30 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:15:30 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:59] - Strategy testing completed for BTCUSDT
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:60] - MA Signals: 5
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:61] - RSI Signals: 6
+2025-11-03 09:15:30 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:15:30 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:59] - Strategy testing completed for ETHUSDT
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:60] - MA Signals: 4
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:61] - RSI Signals: 5
+2025-11-03 09:15:30 - trading_system - INFO - [main.py:80] - ✅ System initialization completed!
+2025-11-03 09:19:40 - trading_system - INFO - [database_migration.py:12] - Starting database migration...
+2025-11-03 09:19:40 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:19:40 - trading_system - ERROR - [database_migration.py:28] - Error checking database schema: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:19:40 - trading_system - ERROR - [db_manager.py:45] - Database session error: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:20:55 - trading_system - INFO - [database_migration.py:12] - Starting database migration...
+2025-11-03 09:20:55 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:20:55 - trading_system - ERROR - [database_migration.py:28] - Error checking database schema: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:20:55 - trading_system - ERROR - [db_manager.py:45] - Database session error: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:21:09 - trading_system - INFO - [database_migration.py:12] - Starting database migration...
+2025-11-03 09:21:09 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:21:09 - trading_system - ERROR - [database_migration.py:28] - Error checking database schema: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:21:09 - trading_system - ERROR - [db_manager.py:45] - Database session error: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:21:29 - trading_system - INFO - [main.py:74] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:21:29 - trading_system - INFO - [main.py:77] - 🗄️ Step 0: Setting up database...
+2025-11-03 09:21:29 - trading_system - INFO - [main.py:15] - Setting up database...
+2025-11-03 09:21:29 - trading_system - INFO - [database_migration.py:12] - Starting database migration...
+2025-11-03 09:21:29 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:21:29 - trading_system - ERROR - [database_migration.py:28] - Error checking database schema: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:21:29 - trading_system - ERROR - [db_manager.py:45] - Database session error: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:21:29 - trading_system - ERROR - [main.py:95] - ❌ Error running system: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:21:49 - trading_system - INFO - [database_migration.py:12] - Starting database migration...
+2025-11-03 09:21:49 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:21:49 - trading_system - ERROR - [database_migration.py:28] - Error checking database schema: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:21:49 - trading_system - ERROR - [db_manager.py:45] - Database session error: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:22:21 - trading_system - INFO - [main.py:74] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:22:21 - trading_system - INFO - [main.py:77] - 🗄️ Step 0: Setting up database...
+2025-11-03 09:22:21 - trading_system - INFO - [main.py:15] - Setting up database...
+2025-11-03 09:22:21 - trading_system - INFO - [database_migration.py:12] - Starting database migration...
+2025-11-03 09:22:21 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:22:21 - trading_system - ERROR - [database_migration.py:28] - Error checking database schema: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:22:21 - trading_system - ERROR - [db_manager.py:45] - Database session error: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:22:21 - trading_system - ERROR - [main.py:95] - ❌ Error running system: Textual SQL expression 'SELECT stoch_k FROM indic...' should be explicitly declared as text('SELECT stoch_k FROM indic...')
+2025-11-03 09:24:13 - trading_system - INFO - [database_migration.py:77] - Database reset complete.
+2025-11-03 09:24:13 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:24:13 - trading_system - INFO - [database_migration.py:81] - New database created with latest schema.
+2025-11-03 09:24:59 - trading_system - INFO - [main.py:82] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:24:59 - trading_system - INFO - [main.py:85] - 🗄️ Step 0: Setting up database...
+2025-11-03 09:24:59 - trading_system - INFO - [main.py:14] - Setting up database...
+2025-11-03 09:24:59 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:24:59 - trading_system - INFO - [main.py:18] - Database setup completed
+2025-11-03 09:24:59 - trading_system - INFO - [main.py:89] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:24:59 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:24:59 - trading_system - INFO - [main.py:27] - Starting historical data collection...
+2025-11-03 09:24:59 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:24:59 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for BTCUSDT 15m
+2025-11-03 09:25:00 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ADAUSDT 15m
+2025-11-03 09:25:00 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:25:00 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ETHUSDT 15m
+2025-11-03 09:25:00 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:25:00 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:25:00 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:25:00 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:25:00 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:25:00 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:25:00 - trading_system - INFO - [db_manager.py:64] - Processed 672 klines
+2025-11-03 09:25:01 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:25:01 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:25:01 - trading_system - INFO - [db_manager.py:64] - Processed 672 klines
+2025-11-03 09:25:01 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:25:02 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:25:02 - trading_system - INFO - [db_manager.py:64] - Processed 672 klines
+2025-11-03 09:25:02 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 8016
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:29] - Historical data collection completed!
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:93] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:25:02 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:36] - Starting indicator calculation...
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:45] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:25:02 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:25:02 - trading_system - INFO - [db_manager.py:107] - Saved 187 indicators
+2025-11-03 09:25:02 - trading_system - INFO - [indicator_calculator.py:189] - Saved 187 indicators for BTCUSDT 15m
+2025-11-03 09:25:02 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 15m - 200 rows
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:45] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:25:02 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:25:02 - trading_system - INFO - [db_manager.py:107] - Saved 187 indicators
+2025-11-03 09:25:02 - trading_system - INFO - [indicator_calculator.py:189] - Saved 187 indicators for ETHUSDT 15m
+2025-11-03 09:25:02 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 15m - 200 rows
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:48] - Indicator calculation completed!
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:97] - 🎯 Step 3: Testing strategies...
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:55] - Testing trading strategies...
+2025-11-03 09:25:02 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:25:02 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:71] - MA Strategy for BTCUSDT: 2 buy, 3 sell signals
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:77] - Current signal - Buy: False, Sell: False
+2025-11-03 09:25:02 - trading_system - INFO - [main.py:100] - ✅ System initialization completed!
+2025-11-03 09:26:34 - trading_system - INFO - [main.py:82] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:26:34 - trading_system - INFO - [main.py:85] - 🗄️ Step 0: Setting up database...
+2025-11-03 09:26:34 - trading_system - INFO - [main.py:14] - Setting up database...
+2025-11-03 09:26:34 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:26:34 - trading_system - INFO - [main.py:18] - Database setup completed
+2025-11-03 09:26:34 - trading_system - INFO - [main.py:89] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:26:34 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:26:34 - trading_system - INFO - [main.py:27] - Starting historical data collection...
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 42 klines for BTCUSDT 4h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 21 klines for BTCUSDT 8h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 7 klines for BTCUSDT 1d
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 21 klines for ADAUSDT 8h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 28 klines for ADAUSDT 6h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 28 klines for BTCUSDT 6h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 42 klines for ETHUSDT 4h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 14 klines for ETHUSDT 12h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 42 klines for ADAUSDT 4h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 1 klines for ADAUSDT 1w
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 28 klines for ETHUSDT 6h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 14 klines for ADAUSDT 12h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 1 klines for BTCUSDT 1w
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 1 klines for ETHUSDT 1w
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 84 klines for ETHUSDT 2h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 7 klines for ETHUSDT 1d
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 7 klines for ADAUSDT 1d
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 84 klines for ADAUSDT 2h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 14 klines for BTCUSDT 12h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 168 klines for BTCUSDT 1h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 168 klines for ADAUSDT 1h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 168 klines for ETHUSDT 1h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 84 klines for BTCUSDT 2h
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 336 klines for ADAUSDT 30m
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 336 klines for BTCUSDT 30m
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 3m
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 336 klines for ETHUSDT 30m
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ADAUSDT 15m
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for BTCUSDT 15m
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 672 klines for ETHUSDT 15m
+2025-11-03 09:26:34 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:26:35 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:26:35 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:26:35 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 3m
+2025-11-03 09:26:35 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:26:35 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:26:35 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:26:35 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 3m
+2025-11-03 09:26:35 - trading_system - INFO - [binance_collector.py:61] - Fetched 21 klines for ETHUSDT 8h
+2025-11-03 09:26:35 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:26:35 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 672 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 336 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 168 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 84 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 42 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 28 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 21 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 14 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 7 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 1 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:26:36 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 672 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 336 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 168 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 84 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 42 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 28 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 21 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 14 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 7 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 1 klines
+2025-11-03 09:26:37 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 672 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 336 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 168 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 84 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 42 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 28 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 21 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 14 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 7 klines
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:64] - Processed 1 klines
+2025-11-03 09:26:38 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 13119
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:29] - Historical data collection completed!
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:93] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:36] - Starting indicator calculation...
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:45] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:26:38 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:107] - Saved 187 indicators
+2025-11-03 09:26:38 - trading_system - INFO - [indicator_calculator.py:189] - Saved 187 indicators for BTCUSDT 15m
+2025-11-03 09:26:38 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 15m - 200 rows
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:45] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:26:38 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:107] - Saved 187 indicators
+2025-11-03 09:26:38 - trading_system - INFO - [indicator_calculator.py:189] - Saved 187 indicators for ETHUSDT 15m
+2025-11-03 09:26:38 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 15m - 200 rows
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:48] - Indicator calculation completed!
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:97] - 🎯 Step 3: Testing strategies...
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:55] - Testing trading strategies...
+2025-11-03 09:26:38 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:26:38 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:71] - MA Strategy for BTCUSDT: 2 buy, 3 sell signals
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:77] - Current signal - Buy: False, Sell: False
+2025-11-03 09:26:38 - trading_system - INFO - [main.py:100] - ✅ System initialization completed!
+2025-11-03 09:31:43 - trading_system - INFO - [main.py:136] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:31:43 - trading_system - INFO - [main.py:139] - 🗄️ Step 0: Setting up database...
+2025-11-03 09:31:43 - trading_system - INFO - [main.py:16] - Setting up database...
+2025-11-03 09:31:43 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:31:43 - trading_system - INFO - [main.py:19] - Database setup completed
+2025-11-03 09:31:43 - trading_system - INFO - [main.py:143] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:31:43 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:31:43 - trading_system - INFO - [main.py:28] - Starting historical data collection...
+2025-11-03 09:31:43 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 15m
+2025-11-03 09:31:43 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:31:43 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 15m
+2025-11-03 09:31:43 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:31:43 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:31:43 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:31:43 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:31:43 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:31:43 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 15m
+2025-11-03 09:31:43 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:31:44 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:31:44 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:31:44 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:31:44 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:31:45 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:31:45 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:31:45 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:31:45 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:31:45 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 9000
+2025-11-03 09:31:45 - trading_system - INFO - [main.py:30] - Historical data collection completed!
+2025-11-03 09:31:45 - trading_system - INFO - [main.py:147] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:31:45 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:31:45 - trading_system - INFO - [main.py:37] - Starting indicator calculation...
+2025-11-03 09:31:45 - trading_system - INFO - [main.py:42] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:31:45 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for BTCUSDT 15m
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 15m - 1000 rows
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:42] - Calculating indicators for BTCUSDT 1h...
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:107] - Saved 155 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:189] - Saved 155 indicators for BTCUSDT 1h
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 1h - 168 rows
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:42] - Calculating indicators for BTCUSDT 4h...
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for BTCUSDT 4h
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 4h - 42 rows
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:42] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ETHUSDT 15m
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 15m - 1000 rows
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:42] - Calculating indicators for ETHUSDT 1h...
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:107] - Saved 155 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:189] - Saved 155 indicators for ETHUSDT 1h
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 1h - 168 rows
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:42] - Calculating indicators for ETHUSDT 4h...
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ETHUSDT 4h
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 4h - 42 rows
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:42] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ADAUSDT 15m
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 15m - 1000 rows
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:42] - Calculating indicators for ADAUSDT 1h...
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:107] - Saved 155 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:189] - Saved 155 indicators for ADAUSDT 1h
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 1h - 168 rows
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:42] - Calculating indicators for ADAUSDT 4h...
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ADAUSDT 4h
+2025-11-03 09:31:46 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 4h - 42 rows
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:45] - Indicator calculation completed!
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:151] - 🧪 Step 3: Running backtests...
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:52] - 🧪 Running strategy backtests...
+2025-11-03 09:31:46 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:31:46 - trading_system - INFO - [main.py:68] - Backtesting MovingAverageCrossover on BTCUSDT 15m
+2025-11-03 09:31:46 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:75] - Backtest results for MovingAverageCrossover:
+Return: -0.75%, Trades: 7, Win Rate: 14.3%
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:68] - Backtesting RSIStrategy on BTCUSDT 15m
+2025-11-03 09:31:47 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:75] - Backtest results for RSIStrategy:
+Return: -0.20%, Trades: 7, Win Rate: 57.1%
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:68] - Backtesting MovingAverageCrossover on BTCUSDT 1h
+2025-11-03 09:31:47 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:75] - Backtest results for MovingAverageCrossover:
+Return: -0.38%, Trades: 4, Win Rate: 25.0%
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:68] - Backtesting RSIStrategy on BTCUSDT 1h
+2025-11-03 09:31:47 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:75] - Backtest results for RSIStrategy:
+Return: -0.45%, Trades: 1, Win Rate: 0.0%
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:68] - Backtesting MovingAverageCrossover on ETHUSDT 15m
+2025-11-03 09:31:47 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:75] - Backtest results for MovingAverageCrossover:
+Return: -0.61%, Trades: 7, Win Rate: 14.3%
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:68] - Backtesting RSIStrategy on ETHUSDT 15m
+2025-11-03 09:31:47 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:75] - Backtest results for RSIStrategy:
+Return: -0.13%, Trades: 6, Win Rate: 66.7%
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:68] - Backtesting MovingAverageCrossover on ETHUSDT 1h
+2025-11-03 09:31:47 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:75] - Backtest results for MovingAverageCrossover:
+Return: -0.42%, Trades: 3, Win Rate: 0.0%
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:68] - Backtesting RSIStrategy on ETHUSDT 1h
+2025-11-03 09:31:47 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:75] - Backtest results for RSIStrategy:
+Return: -0.43%, Trades: 1, Win Rate: 0.0%
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:155] - ⚙️ Step 4: Optimizing strategies...
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:88] - ⚙️ Optimizing strategy parameters...
+2025-11-03 09:31:47 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:31:47 - trading_system - WARNING - [main.py:100] - Not enough data for optimization
+2025-11-03 09:31:47 - trading_system - INFO - [main.py:158] - ✅ System initialization and testing completed!
+2025-11-03 09:43:12 - trading_system - INFO - [main.py:183] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:43:12 - trading_system - INFO - [main.py:186] - 🗄️ Step 0: Setting up database...
+2025-11-03 09:43:12 - trading_system - INFO - [main.py:18] - Setting up database...
+2025-11-03 09:43:12 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:43:12 - trading_system - INFO - [main.py:21] - Database setup completed
+2025-11-03 09:43:12 - trading_system - INFO - [main.py:190] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:43:12 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:43:12 - trading_system - INFO - [main.py:30] - Starting historical data collection...
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 15m
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for BTCUSDT 1h
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 15m
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 15m
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ETHUSDT 1h
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ADAUSDT 1h
+2025-11-03 09:43:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:43:13 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:43:14 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:43:14 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:43:14 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:43:14 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:43:14 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:43:15 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:43:15 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:43:15 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:43:15 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:43:15 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:43:16 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:43:16 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 11160
+2025-11-03 09:43:16 - trading_system - INFO - [main.py:32] - Historical data collection completed!
+2025-11-03 09:43:16 - trading_system - INFO - [main.py:194] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:43:16 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:43:16 - trading_system - INFO - [main.py:39] - Starting indicator calculation...
+2025-11-03 09:43:16 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:43:16 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for BTCUSDT 15m
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 15m - 1000 rows
+2025-11-03 09:43:16 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 1h...
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:43:16 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for BTCUSDT 1h
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 1h - 720 rows
+2025-11-03 09:43:16 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 4h...
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:43:16 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for BTCUSDT 4h
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 4h - 42 rows
+2025-11-03 09:43:16 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:43:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ETHUSDT 15m
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 15m - 1000 rows
+2025-11-03 09:43:17 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 1h...
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for ETHUSDT 1h
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 1h - 720 rows
+2025-11-03 09:43:17 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 4h...
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ETHUSDT 4h
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 4h - 42 rows
+2025-11-03 09:43:17 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ADAUSDT 15m
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 15m - 1000 rows
+2025-11-03 09:43:17 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 1h...
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for ADAUSDT 1h
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 1h - 720 rows
+2025-11-03 09:43:17 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 4h...
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ADAUSDT 4h
+2025-11-03 09:43:17 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 4h - 42 rows
+2025-11-03 09:43:17 - trading_system - INFO - [main.py:46] - Indicator calculation completed!
+2025-11-03 09:43:17 - trading_system - INFO - [main.py:198] - 🧪 Step 3: Running backtests...
+2025-11-03 09:43:17 - trading_system - INFO - [main.py:53] - 🧪 Running strategy backtests...
+2025-11-03 09:43:17 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:43:17 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:43:17 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover BTCUSDT 1h: Return: -0.58%, Trades: 6, Win Rate: 16.7%
+2025-11-03 09:43:17 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy BTCUSDT 1h: Return: -0.44%, Trades: 5, Win Rate: 40.0%
+2025-11-03 09:43:18 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover ETHUSDT 1h: Return: -1.45%, Trades: 7, Win Rate: 14.3%
+2025-11-03 09:43:18 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy ETHUSDT 1h: Return: -1.20%, Trades: 4, Win Rate: 25.0%
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:202] - 🔍 Step 4: Running pattern analysis...
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:153] - 🔍 Running pattern analysis...
+2025-11-03 09:43:18 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:43:18 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for BTCUSDT 1h
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:171] - Found 13 high-confidence patterns for BTCUSDT 1h
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for ETHUSDT 1h
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:171] - Found 13 high-confidence patterns for ETHUSDT 1h
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:206] - 📡 Step 5: Starting real-time monitoring...
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:84] - 📡 Setting up real-time monitoring...
+2025-11-03 09:43:18 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:43:18 - trading_system - INFO - [websocket_collector.py:132] - Added price alert: BTCUSDT above 50000
+2025-11-03 09:43:18 - trading_system - INFO - [websocket_collector.py:132] - Added price alert: BTCUSDT below 40000
+2025-11-03 09:43:18 - trading_system - INFO - [websocket_collector.py:132] - Added price alert: ETHUSDT above 50000
+2025-11-03 09:43:18 - trading_system - INFO - [websocket_collector.py:132] - Added price alert: ETHUSDT below 40000
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:209] - ✅ System initialization completed!
+2025-11-03 09:43:18 - trading_system - INFO - [main.py:210] - 🎯 Real-time monitoring is now active...
+2025-11-03 09:43:18 - trading_system - INFO - [websocket_collector.py:99] - Started real-time monitoring for 2 symbols
+2025-11-03 09:43:18 - trading_system - INFO - [websocket_collector.py:33] - Connecting to WebSocket: btcusdt@kline_5m
+2025-11-03 09:43:18 - trading_system - INFO - [websocket_collector.py:33] - Connecting to WebSocket: btcusdt@kline_15m
+2025-11-03 09:43:18 - trading_system - INFO - [websocket_collector.py:33] - Connecting to WebSocket: ethusdt@kline_5m
+2025-11-03 09:43:18 - trading_system - INFO - [websocket_collector.py:33] - Connecting to WebSocket: ethusdt@kline_15m
+2025-11-03 09:43:18 - trading_system - ERROR - [websocket_collector.py:66] - WebSocket connection failed for BTCUSDT: server rejected WebSocket connection: HTTP 404
+2025-11-03 09:43:18 - trading_system - ERROR - [websocket_collector.py:66] - WebSocket connection failed for ETHUSDT: server rejected WebSocket connection: HTTP 404
+2025-11-03 09:43:18 - trading_system - ERROR - [websocket_collector.py:66] - WebSocket connection failed for ETHUSDT: server rejected WebSocket connection: HTTP 404
+2025-11-03 09:43:18 - trading_system - ERROR - [websocket_collector.py:66] - WebSocket connection failed for BTCUSDT: server rejected WebSocket connection: HTTP 404
+2025-11-03 09:43:55 - trading_system - INFO - [websocket_collector.py:111] - Real-time monitoring stopped
+2025-11-03 09:43:55 - trading_system - INFO - [main.py:225] - 🔚 System shutdown completed
+2025-11-03 09:44:20 - trading_system - INFO - [main.py:183] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:44:20 - trading_system - INFO - [main.py:186] - 🗄️ Step 0: Setting up database...
+2025-11-03 09:44:20 - trading_system - INFO - [main.py:18] - Setting up database...
+2025-11-03 09:44:20 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:44:20 - trading_system - INFO - [main.py:21] - Database setup completed
+2025-11-03 09:44:20 - trading_system - INFO - [main.py:190] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:44:20 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:44:20 - trading_system - INFO - [main.py:30] - Starting historical data collection...
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for BTCUSDT 1h
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ETHUSDT 1h
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 15m
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 15m
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ADAUSDT 1h
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 15m
+2025-11-03 09:44:21 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:44:21 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:44:21 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:44:22 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:44:22 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:44:22 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:44:22 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:44:22 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:44:23 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:44:23 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:44:23 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:44:23 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:44:24 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:44:24 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 11160
+2025-11-03 09:44:24 - trading_system - INFO - [main.py:32] - Historical data collection completed!
+2025-11-03 09:44:24 - trading_system - INFO - [main.py:194] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:44:24 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:44:24 - trading_system - INFO - [main.py:39] - Starting indicator calculation...
+2025-11-03 09:44:24 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:44:24 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for BTCUSDT 15m
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 15m - 1000 rows
+2025-11-03 09:44:24 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 1h...
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:44:24 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for BTCUSDT 1h
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 1h - 720 rows
+2025-11-03 09:44:24 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 4h...
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:44:24 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for BTCUSDT 4h
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 4h - 42 rows
+2025-11-03 09:44:24 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:44:24 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ETHUSDT 15m
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 15m - 1000 rows
+2025-11-03 09:44:24 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 1h...
+2025-11-03 09:44:24 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for ETHUSDT 1h
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 1h - 720 rows
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 4h...
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ETHUSDT 4h
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 4h - 42 rows
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ADAUSDT 15m
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 15m - 1000 rows
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 1h...
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for ADAUSDT 1h
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 1h - 720 rows
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 4h...
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ADAUSDT 4h
+2025-11-03 09:44:25 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 4h - 42 rows
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:46] - Indicator calculation completed!
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:198] - 🧪 Step 3: Running backtests...
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:53] - 🧪 Running strategy backtests...
+2025-11-03 09:44:25 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:44:25 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover BTCUSDT 1h: Return: -0.58%, Trades: 6, Win Rate: 16.7%
+2025-11-03 09:44:25 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy BTCUSDT 1h: Return: -0.44%, Trades: 5, Win Rate: 40.0%
+2025-11-03 09:44:25 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:44:25 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover ETHUSDT 1h: Return: -1.45%, Trades: 7, Win Rate: 14.3%
+2025-11-03 09:44:25 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy ETHUSDT 1h: Return: -1.20%, Trades: 4, Win Rate: 25.0%
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:202] - 🔍 Step 4: Running pattern analysis...
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:153] - 🔍 Running pattern analysis...
+2025-11-03 09:44:26 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:44:26 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for BTCUSDT 1h
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:171] - Found 13 high-confidence patterns for BTCUSDT 1h
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for ETHUSDT 1h
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:171] - Found 13 high-confidence patterns for ETHUSDT 1h
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:174] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:206] - 📡 Step 5: Starting real-time monitoring...
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:84] - 📡 Setting up real-time monitoring...
+2025-11-03 09:44:26 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:44:26 - trading_system - INFO - [websocket_collector.py:132] - Added price alert: BTCUSDT above 50000
+2025-11-03 09:44:26 - trading_system - INFO - [websocket_collector.py:132] - Added price alert: BTCUSDT below 40000
+2025-11-03 09:44:26 - trading_system - INFO - [websocket_collector.py:132] - Added price alert: ETHUSDT above 50000
+2025-11-03 09:44:26 - trading_system - INFO - [websocket_collector.py:132] - Added price alert: ETHUSDT below 40000
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:209] - ✅ System initialization completed!
+2025-11-03 09:44:26 - trading_system - INFO - [main.py:210] - 🎯 Real-time monitoring is now active...
+2025-11-03 09:44:26 - trading_system - INFO - [websocket_collector.py:99] - Started real-time monitoring for 2 symbols
+2025-11-03 09:44:26 - trading_system - INFO - [websocket_collector.py:33] - Connecting to WebSocket: btcusdt@kline_5m
+2025-11-03 09:44:26 - trading_system - INFO - [websocket_collector.py:33] - Connecting to WebSocket: btcusdt@kline_15m
+2025-11-03 09:44:26 - trading_system - INFO - [websocket_collector.py:33] - Connecting to WebSocket: ethusdt@kline_5m
+2025-11-03 09:44:26 - trading_system - INFO - [websocket_collector.py:33] - Connecting to WebSocket: ethusdt@kline_15m
+2025-11-03 09:44:26 - trading_system - ERROR - [websocket_collector.py:66] - WebSocket connection failed for BTCUSDT: server rejected WebSocket connection: HTTP 404
+2025-11-03 09:44:26 - trading_system - ERROR - [websocket_collector.py:66] - WebSocket connection failed for BTCUSDT: server rejected WebSocket connection: HTTP 404
+2025-11-03 09:44:26 - trading_system - ERROR - [websocket_collector.py:66] - WebSocket connection failed for ETHUSDT: server rejected WebSocket connection: HTTP 404
+2025-11-03 09:44:26 - trading_system - ERROR - [websocket_collector.py:66] - WebSocket connection failed for ETHUSDT: server rejected WebSocket connection: HTTP 404
+2025-11-03 09:45:20 - trading_system - INFO - [websocket_collector.py:111] - Real-time monitoring stopped
+2025-11-03 09:45:20 - trading_system - INFO - [main.py:225] - 🔚 System shutdown completed
+2025-11-03 09:48:29 - trading_system - INFO - [main.py:213] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:48:29 - trading_system - INFO - [main.py:216] - 🗄️ Step 0: Setting up database...
+2025-11-03 09:48:29 - trading_system - INFO - [main.py:18] - Setting up database...
+2025-11-03 09:48:29 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:48:29 - trading_system - INFO - [main.py:21] - Database setup completed
+2025-11-03 09:48:29 - trading_system - INFO - [main.py:220] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:48:29 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:48:29 - trading_system - INFO - [main.py:30] - Starting historical data collection...
+2025-11-03 09:48:29 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ETHUSDT 1h
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ADAUSDT 1h
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 15m
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 15m
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for BTCUSDT 1h
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:48:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 15m
+2025-11-03 09:48:30 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:48:30 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:48:30 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:48:30 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:48:31 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:48:31 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:48:31 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:48:31 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:48:31 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:48:32 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:48:32 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:48:32 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:48:32 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 11160
+2025-11-03 09:48:32 - trading_system - INFO - [main.py:32] - Historical data collection completed!
+2025-11-03 09:48:32 - trading_system - INFO - [main.py:224] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:48:32 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:48:32 - trading_system - INFO - [main.py:39] - Starting indicator calculation...
+2025-11-03 09:48:32 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:48:32 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:48:32 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:48:32 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for BTCUSDT 15m
+2025-11-03 09:48:32 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 15m - 1000 rows
+2025-11-03 09:48:32 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 1h...
+2025-11-03 09:48:32 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for BTCUSDT 1h
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 1h - 720 rows
+2025-11-03 09:48:33 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 4h...
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for BTCUSDT 4h
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 4h - 42 rows
+2025-11-03 09:48:33 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ETHUSDT 15m
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 15m - 1000 rows
+2025-11-03 09:48:33 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 1h...
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for ETHUSDT 1h
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 1h - 720 rows
+2025-11-03 09:48:33 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 4h...
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ETHUSDT 4h
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 4h - 42 rows
+2025-11-03 09:48:33 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ADAUSDT 15m
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 15m - 1000 rows
+2025-11-03 09:48:33 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 1h...
+2025-11-03 09:48:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:48:34 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:48:34 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for ADAUSDT 1h
+2025-11-03 09:48:34 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 1h - 720 rows
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 4h...
+2025-11-03 09:48:34 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:48:34 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:48:34 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ADAUSDT 4h
+2025-11-03 09:48:34 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 4h - 42 rows
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:46] - Indicator calculation completed!
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:228] - 🧪 Step 3: Running backtests...
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:53] - 🧪 Running strategy backtests...
+2025-11-03 09:48:34 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:48:34 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover BTCUSDT 1h: Return: -0.58%, Trades: 6, Win Rate: 16.7%
+2025-11-03 09:48:34 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy BTCUSDT 1h: Return: -0.44%, Trades: 5, Win Rate: 40.0%
+2025-11-03 09:48:34 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover ETHUSDT 1h: Return: -1.45%, Trades: 7, Win Rate: 14.3%
+2025-11-03 09:48:34 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy ETHUSDT 1h: Return: -1.20%, Trades: 4, Win Rate: 25.0%
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:232] - 🔍 Step 4: Running pattern analysis...
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:183] - 🔍 Running pattern analysis...
+2025-11-03 09:48:34 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:48:34 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for BTCUSDT 1h
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:201] - Found 13 high-confidence patterns for BTCUSDT 1h
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for ETHUSDT 1h
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:201] - Found 13 high-confidence patterns for ETHUSDT 1h
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:236] - 📡 Step 5: Starting real-time monitoring...
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:85] - 📡 Setting up real-time monitoring...
+2025-11-03 09:48:34 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:48:34 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:48:34 - trading_system - WARNING - [main.py:131] - Could not set alerts for BTCUSDT: Instance <Kline at 0x77d7f74853d0> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-11-03 09:48:34 - trading_system - WARNING - [main.py:131] - Could not set alerts for ETHUSDT: Instance <Kline at 0x77d7f74859a0> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:239] - ✅ System initialization completed!
+2025-11-03 09:48:34 - trading_system - INFO - [main.py:240] - 🎯 Real-time monitoring is now active...
+2025-11-03 09:48:34 - trading_system - INFO - [websocket_collector.py:123] - Started real-time monitoring for 2 symbols, 2 intervals
+2025-11-03 09:48:34 - trading_system - INFO - [websocket_collector.py:34] - Connecting to WebSocket: btcusdt@kline_1m
+2025-11-03 09:48:34 - trading_system - INFO - [websocket_collector.py:34] - Connecting to WebSocket: btcusdt@kline_5m
+2025-11-03 09:48:34 - trading_system - INFO - [websocket_collector.py:34] - Connecting to WebSocket: ethusdt@kline_1m
+2025-11-03 09:48:34 - trading_system - INFO - [websocket_collector.py:34] - Connecting to WebSocket: ethusdt@kline_5m
+2025-11-03 09:48:34 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for btcusdt (attempt 1/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:34 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for ethusdt (attempt 1/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:34 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for ethusdt (attempt 1/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:34 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for btcusdt (attempt 1/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:40 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for btcusdt (attempt 2/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:40 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for ethusdt (attempt 2/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:40 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for btcusdt (attempt 2/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:40 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for ethusdt (attempt 2/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:45 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for btcusdt (attempt 3/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:45 - trading_system - ERROR - [websocket_collector.py:87] - Max retries reached for btcusdt, giving up
+2025-11-03 09:48:45 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for btcusdt (attempt 3/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:45 - trading_system - ERROR - [websocket_collector.py:87] - Max retries reached for btcusdt, giving up
+2025-11-03 09:48:45 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for ethusdt (attempt 3/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:45 - trading_system - ERROR - [websocket_collector.py:87] - Max retries reached for ethusdt, giving up
+2025-11-03 09:48:45 - trading_system - ERROR - [websocket_collector.py:83] - WebSocket connection failed for ethusdt (attempt 3/3): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:48:45 - trading_system - ERROR - [websocket_collector.py:87] - Max retries reached for ethusdt, giving up
+2025-11-03 09:49:21 - trading_system - INFO - [websocket_collector.py:135] - Real-time monitoring stopped
+2025-11-03 09:49:21 - trading_system - INFO - [main.py:255] - 🔚 System shutdown completed
+2025-11-03 09:56:12 - trading_system - INFO - [main.py:213] - 🚀 Starting Crypto Trading System...
+2025-11-03 09:56:12 - trading_system - INFO - [main.py:216] - 🗄️ Step 0: Setting up database...
+2025-11-03 09:56:12 - trading_system - INFO - [main.py:18] - Setting up database...
+2025-11-03 09:56:12 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:56:12 - trading_system - INFO - [main.py:21] - Database setup completed
+2025-11-03 09:56:12 - trading_system - INFO - [main.py:220] - 📊 Step 1: Collecting historical data...
+2025-11-03 09:56:12 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:56:12 - trading_system - INFO - [main.py:30] - Starting historical data collection...
+2025-11-03 09:56:12 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for BTCUSDT 1h
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ADAUSDT 1h
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 15m
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ETHUSDT 1h
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 15m
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 09:56:13 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 15m
+2025-11-03 09:56:13 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:56:13 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:56:13 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:56:13 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:56:14 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:56:14 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:56:14 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:56:14 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:56:14 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:56:15 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:56:15 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 09:56:15 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 09:56:15 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 11160
+2025-11-03 09:56:15 - trading_system - INFO - [main.py:32] - Historical data collection completed!
+2025-11-03 09:56:15 - trading_system - INFO - [main.py:224] - 📈 Step 2: Calculating indicators...
+2025-11-03 09:56:15 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:56:15 - trading_system - INFO - [main.py:39] - Starting indicator calculation...
+2025-11-03 09:56:15 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 09:56:15 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:56:15 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:56:15 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for BTCUSDT 15m
+2025-11-03 09:56:15 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 15m - 1000 rows
+2025-11-03 09:56:15 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 1h...
+2025-11-03 09:56:15 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for BTCUSDT 1h
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 1h - 720 rows
+2025-11-03 09:56:16 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 4h...
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for BTCUSDT 4h
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 4h - 42 rows
+2025-11-03 09:56:16 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ETHUSDT 15m
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 15m - 1000 rows
+2025-11-03 09:56:16 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 1h...
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for ETHUSDT 1h
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 1h - 720 rows
+2025-11-03 09:56:16 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 4h...
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ETHUSDT 4h
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 4h - 42 rows
+2025-11-03 09:56:16 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ADAUSDT 15m
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 15m - 1000 rows
+2025-11-03 09:56:16 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 1h...
+2025-11-03 09:56:16 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:56:17 - trading_system - INFO - [db_manager.py:107] - Saved 707 indicators
+2025-11-03 09:56:17 - trading_system - INFO - [indicator_calculator.py:189] - Saved 707 indicators for ADAUSDT 1h
+2025-11-03 09:56:17 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 1h - 720 rows
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 4h...
+2025-11-03 09:56:17 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 09:56:17 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 09:56:17 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ADAUSDT 4h
+2025-11-03 09:56:17 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 4h - 42 rows
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:46] - Indicator calculation completed!
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:228] - 🧪 Step 3: Running backtests...
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:53] - 🧪 Running strategy backtests...
+2025-11-03 09:56:17 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:56:17 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover BTCUSDT 1h: Return: -0.58%, Trades: 6, Win Rate: 16.7%
+2025-11-03 09:56:17 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy BTCUSDT 1h: Return: -0.44%, Trades: 5, Win Rate: 40.0%
+2025-11-03 09:56:17 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover ETHUSDT 1h: Return: -1.45%, Trades: 7, Win Rate: 14.3%
+2025-11-03 09:56:17 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy ETHUSDT 1h: Return: -1.20%, Trades: 4, Win Rate: 25.0%
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:232] - 🔍 Step 4: Running pattern analysis...
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:183] - 🔍 Running pattern analysis...
+2025-11-03 09:56:17 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:56:17 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for BTCUSDT 1h
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:201] - Found 13 high-confidence patterns for BTCUSDT 1h
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for ETHUSDT 1h
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:201] - Found 13 high-confidence patterns for ETHUSDT 1h
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:204] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:236] - 📡 Step 5: Starting real-time monitoring...
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:85] - 📡 Setting up real-time monitoring...
+2025-11-03 09:56:17 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:56:17 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:56:17 - trading_system - WARNING - [main.py:131] - Could not set alerts for BTCUSDT: Instance <Kline at 0x7a382af43560> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-11-03 09:56:17 - trading_system - WARNING - [main.py:131] - Could not set alerts for ETHUSDT: Instance <Kline at 0x7a382af43860> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:239] - ✅ System initialization completed!
+2025-11-03 09:56:17 - trading_system - INFO - [main.py:240] - 🎯 Real-time monitoring is now active...
+2025-11-03 09:56:17 - trading_system - INFO - [websocket_collector.py:172] - 🚀 Started monitoring 4 streams
+2025-11-03 09:56:17 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_1m
+2025-11-03 09:56:17 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_5m
+2025-11-03 09:56:17 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_1m
+2025-11-03 09:56:17 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_5m
+2025-11-03 09:56:17 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_1m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:56:17 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_1m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:56:17 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_5m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:56:17 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_5m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:56:21 - trading_system - INFO - [websocket_collector.py:201] - 🔚 All WebSocket connections closed
+2025-11-03 09:56:21 - trading_system - INFO - [main.py:255] - 🔚 System shutdown completed
+2025-11-03 09:56:21 - trading_system - INFO - [websocket_collector.py:187] - 🛑 Monitoring stopped
+2025-11-03 09:56:40 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:56:40 - trading_system - INFO - [websocket_collector.py:172] - 🚀 Started monitoring 4 streams
+2025-11-03 09:56:40 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_1m
+2025-11-03 09:56:40 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_5m
+2025-11-03 09:56:40 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_1m
+2025-11-03 09:56:40 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_5m
+2025-11-03 09:56:40 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_5m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:56:40 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_1m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:56:40 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_5m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:56:40 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_1m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:56:41 - trading_system - INFO - [websocket_collector.py:187] - 🛑 Monitoring stopped
+2025-11-03 09:57:43 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 09:57:43 - trading_system - INFO - [websocket_collector.py:172] - 🚀 Started monitoring 4 streams
+2025-11-03 09:57:43 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_1m
+2025-11-03 09:57:43 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_5m
+2025-11-03 09:57:43 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_1m
+2025-11-03 09:57:43 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_5m
+2025-11-03 09:57:43 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_1m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:43 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_1m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:43 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_5m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:43 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_5m (attempt 1/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:49 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_1m (attempt 2/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:49 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_1m (attempt 2/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:49 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_5m (attempt 2/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:49 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_5m (attempt 2/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:59 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_1m (attempt 3/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:59 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_1m (attempt 3/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:59 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for ethusdt@kline_5m (attempt 3/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:57:59 - trading_system - ERROR - [websocket_collector.py:109] - ❌ Connection failed for btcusdt@kline_5m (attempt 3/5): server rejected WebSocket connection: HTTP 404
+2025-11-03 09:58:04 - trading_system - INFO - [websocket_collector.py:187] - 🛑 Monitoring stopped
+2025-11-03 10:03:18 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:03:18 - trading_system - INFO - [websocket_collector.py:157] - 🚀 Started monitoring 2 streams on MAINNET
+2025-11-03 10:03:18 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_1m
+2025-11-03 10:03:18 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_1m
+2025-11-03 10:03:18 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: ethusdt@kline_1m
+2025-11-03 10:03:18 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: btcusdt@kline_1m
+2025-11-03 10:03:48 - trading_system - INFO - [websocket_collector.py:172] - 🔚 WebSocket monitoring stopped
+2025-11-03 10:03:58 - trading_system - INFO - [websocket_collector.py:167] - 🛑 Monitoring stopped
+2025-11-03 10:04:05 - trading_system - INFO - [main.py:220] - 🚀 Starting Crypto Trading System...
+2025-11-03 10:04:05 - trading_system - INFO - [main.py:223] - 🗄️ Step 0: Setting up database...
+2025-11-03 10:04:05 - trading_system - INFO - [main.py:18] - Setting up database...
+2025-11-03 10:04:05 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:04:05 - trading_system - INFO - [main.py:21] - Database setup completed
+2025-11-03 10:04:05 - trading_system - INFO - [main.py:227] - 📊 Step 1: Collecting historical data...
+2025-11-03 10:04:05 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:04:05 - trading_system - INFO - [main.py:30] - Starting historical data collection...
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ADAUSDT 1h
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 15m
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for ETHUSDT 1h
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 720 klines for BTCUSDT 1h
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 15m
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 10:04:05 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 15m
+2025-11-03 10:04:06 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:04:06 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:04:06 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:04:06 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 10:04:06 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:04:07 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:04:07 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:04:07 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 10:04:07 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:04:07 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:04:08 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:04:08 - trading_system - INFO - [db_manager.py:64] - Processed 720 klines
+2025-11-03 10:04:08 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 11160
+2025-11-03 10:04:08 - trading_system - INFO - [main.py:32] - Historical data collection completed!
+2025-11-03 10:04:08 - trading_system - INFO - [main.py:231] - 📈 Step 2: Calculating indicators...
+2025-11-03 10:04:08 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:04:08 - trading_system - INFO - [main.py:39] - Starting indicator calculation...
+2025-11-03 10:04:08 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:04:08 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for BTCUSDT 15m
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 15m - 1000 rows
+2025-11-03 10:04:08 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 1h...
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:04:08 - trading_system - INFO - [db_manager.py:107] - Saved 708 indicators
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:189] - Saved 708 indicators for BTCUSDT 1h
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 1h - 721 rows
+2025-11-03 10:04:08 - trading_system - INFO - [main.py:43] - Calculating indicators for BTCUSDT 4h...
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:04:08 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for BTCUSDT 4h
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 4h - 42 rows
+2025-11-03 10:04:08 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 10:04:08 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ETHUSDT 15m
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 15m - 1000 rows
+2025-11-03 10:04:09 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 1h...
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [db_manager.py:107] - Saved 708 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:189] - Saved 708 indicators for ETHUSDT 1h
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 1h - 721 rows
+2025-11-03 10:04:09 - trading_system - INFO - [main.py:43] - Calculating indicators for ETHUSDT 4h...
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ETHUSDT 4h
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 4h - 42 rows
+2025-11-03 10:04:09 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ADAUSDT 15m
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 15m - 1000 rows
+2025-11-03 10:04:09 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 1h...
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [db_manager.py:107] - Saved 708 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:189] - Saved 708 indicators for ADAUSDT 1h
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 1h - 721 rows
+2025-11-03 10:04:09 - trading_system - INFO - [main.py:43] - Calculating indicators for ADAUSDT 4h...
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [db_manager.py:107] - Saved 29 indicators
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:189] - Saved 29 indicators for ADAUSDT 4h
+2025-11-03 10:04:09 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 4h - 42 rows
+2025-11-03 10:04:09 - trading_system - INFO - [main.py:46] - Indicator calculation completed!
+2025-11-03 10:04:09 - trading_system - INFO - [main.py:235] - 🧪 Step 3: Running backtests...
+2025-11-03 10:04:09 - trading_system - INFO - [main.py:53] - 🧪 Running strategy backtests...
+2025-11-03 10:04:09 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:04:09 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover BTCUSDT 1h: Return: -0.52%, Trades: 5, Win Rate: 20.0%
+2025-11-03 10:04:10 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy BTCUSDT 1h: Return: -0.47%, Trades: 6, Win Rate: 33.3%
+2025-11-03 10:04:10 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:72] - Backtest MovingAverageCrossover ETHUSDT 1h: Return: -1.39%, Trades: 6, Win Rate: 16.7%
+2025-11-03 10:04:10 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:72] - Backtest RSIStrategy ETHUSDT 1h: Return: -1.20%, Trades: 4, Win Rate: 25.0%
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:239] - 🔍 Step 4: Running pattern analysis...
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:190] - 🔍 Running pattern analysis...
+2025-11-03 10:04:10 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:04:10 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for BTCUSDT 1h
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:208] - Found 13 high-confidence patterns for BTCUSDT 1h
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [pattern_detector.py:58] - Detected 12 patterns for ETHUSDT 1h
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:208] - Found 12 high-confidence patterns for ETHUSDT 1h
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - SUPPORT: bullish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:211] -   - RESISTANCE: bearish (confidence: 0.80)
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:243] - 📡 Step 5: Starting real-time monitoring...
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:86] - 📡 Setting up real-time monitoring (MAINNET)...
+2025-11-03 10:04:10 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:04:10 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:04:10 - trading_system - WARNING - [main.py:132] - Could not set alerts for BTCUSDT: Instance <Kline at 0x75d6a935c350> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:193] - Added price alert: BTCUSDT above 100000
+2025-11-03 10:04:10 - trading_system - WARNING - [main.py:132] - Could not set alerts for ETHUSDT: Instance <Kline at 0x75d6a935e840> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:193] - Added price alert: ETHUSDT above 100000
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:246] - ✅ System initialization completed!
+2025-11-03 10:04:10 - trading_system - INFO - [main.py:247] - 🎯 Real-time monitoring is now active...
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:157] - 🚀 Started monitoring 4 streams on MAINNET
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_1m
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_5m
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_1m
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_5m
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: ethusdt@kline_1m
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: ethusdt@kline_5m
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: btcusdt@kline_1m
+2025-11-03 10:04:10 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: btcusdt@kline_5m
+2025-11-03 10:04:35 - trading_system - INFO - [websocket_collector.py:172] - 🔚 WebSocket monitoring stopped
+2025-11-03 10:04:35 - trading_system - INFO - [main.py:262] - 🔚 System shutdown completed
+2025-11-03 10:04:35 - trading_system - INFO - [websocket_collector.py:167] - 🛑 Monitoring stopped
+2025-11-03 10:15:30 - trading_system - INFO - [main.py:295] - 🚀 Starting Complete Crypto Trading System...
+2025-11-03 10:15:30 - trading_system - INFO - [main.py:298] - 🗄️ Step 0: Setting up database...
+2025-11-03 10:15:30 - trading_system - INFO - [main.py:20] - Setting up database...
+2025-11-03 10:15:30 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:15:30 - trading_system - INFO - [main.py:23] - Database setup completed
+2025-11-03 10:15:30 - trading_system - INFO - [main.py:302] - 📊 Step 1: Collecting historical data...
+2025-11-03 10:15:30 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:15:30 - trading_system - INFO - [main.py:32] - Starting historical data collection...
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 197 klines for ADAUSDT 4h
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 197 klines for BTCUSDT 4h
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 197 klines for ETHUSDT 4h
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 5m
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 784 klines for ADAUSDT 1h
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 784 klines for ETHUSDT 1h
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 5m
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 15m
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 1m
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ADAUSDT 1m
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 784 klines for BTCUSDT 1h
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 15m
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for ETHUSDT 5m
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 15m
+2025-11-03 10:15:30 - trading_system - INFO - [binance_collector.py:61] - Fetched 1000 klines for BTCUSDT 1m
+2025-11-03 10:15:30 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:15:30 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:15:31 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:15:31 - trading_system - INFO - [db_manager.py:64] - Processed 784 klines
+2025-11-03 10:15:31 - trading_system - INFO - [db_manager.py:64] - Processed 197 klines
+2025-11-03 10:15:31 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:15:31 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:15:32 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:15:32 - trading_system - INFO - [db_manager.py:64] - Processed 784 klines
+2025-11-03 10:15:32 - trading_system - INFO - [db_manager.py:64] - Processed 197 klines
+2025-11-03 10:15:32 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:15:32 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:15:33 - trading_system - INFO - [db_manager.py:64] - Processed 1000 klines
+2025-11-03 10:15:33 - trading_system - INFO - [db_manager.py:64] - Processed 784 klines
+2025-11-03 10:15:33 - trading_system - INFO - [db_manager.py:64] - Processed 197 klines
+2025-11-03 10:15:33 - trading_system - INFO - [binance_collector.py:88] - Total klines saved: 11943
+2025-11-03 10:15:33 - trading_system - INFO - [main.py:34] - Historical data collection completed!
+2025-11-03 10:15:33 - trading_system - INFO - [main.py:306] - 📈 Step 2: Calculating indicators...
+2025-11-03 10:15:33 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:15:33 - trading_system - INFO - [main.py:41] - Starting indicator calculation...
+2025-11-03 10:15:33 - trading_system - INFO - [main.py:45] - Calculating indicators for BTCUSDT 15m...
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:15:33 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for BTCUSDT 15m
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 15m - 1000 rows
+2025-11-03 10:15:33 - trading_system - INFO - [main.py:45] - Calculating indicators for BTCUSDT 1h...
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:15:33 - trading_system - INFO - [db_manager.py:107] - Saved 771 indicators
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:189] - Saved 771 indicators for BTCUSDT 1h
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 1h - 784 rows
+2025-11-03 10:15:33 - trading_system - INFO - [main.py:45] - Calculating indicators for BTCUSDT 4h...
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:15:33 - trading_system - INFO - [db_manager.py:107] - Saved 184 indicators
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:189] - Saved 184 indicators for BTCUSDT 4h
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for BTCUSDT 4h - 197 rows
+2025-11-03 10:15:33 - trading_system - INFO - [main.py:45] - Calculating indicators for ETHUSDT 15m...
+2025-11-03 10:15:33 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ETHUSDT 15m
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 15m - 1000 rows
+2025-11-03 10:15:34 - trading_system - INFO - [main.py:45] - Calculating indicators for ETHUSDT 1h...
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [db_manager.py:107] - Saved 771 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:189] - Saved 771 indicators for ETHUSDT 1h
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 1h - 784 rows
+2025-11-03 10:15:34 - trading_system - INFO - [main.py:45] - Calculating indicators for ETHUSDT 4h...
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [db_manager.py:107] - Saved 184 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:189] - Saved 184 indicators for ETHUSDT 4h
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ETHUSDT 4h - 197 rows
+2025-11-03 10:15:34 - trading_system - INFO - [main.py:45] - Calculating indicators for ADAUSDT 15m...
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [db_manager.py:107] - Saved 987 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:189] - Saved 987 indicators for ADAUSDT 15m
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 15m - 1000 rows
+2025-11-03 10:15:34 - trading_system - INFO - [main.py:45] - Calculating indicators for ADAUSDT 1h...
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [db_manager.py:107] - Saved 771 indicators
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:189] - Saved 771 indicators for ADAUSDT 1h
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 1h - 784 rows
+2025-11-03 10:15:34 - trading_system - INFO - [main.py:45] - Calculating indicators for ADAUSDT 4h...
+2025-11-03 10:15:34 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:15:35 - trading_system - INFO - [db_manager.py:107] - Saved 184 indicators
+2025-11-03 10:15:35 - trading_system - INFO - [indicator_calculator.py:189] - Saved 184 indicators for ADAUSDT 4h
+2025-11-03 10:15:35 - trading_system - INFO - [indicator_calculator.py:138] - Calculated indicators for ADAUSDT 4h - 197 rows
+2025-11-03 10:15:35 - trading_system - INFO - [main.py:48] - Indicator calculation completed!
+2025-11-03 10:15:35 - trading_system - INFO - [main.py:310] - 🤖 Step 3: Training ML models...
+2025-11-03 10:15:35 - trading_system - INFO - [main.py:55] - 🤖 Training ML models...
+2025-11-03 10:15:35 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:15:35 - trading_system - INFO - [main.py:66] - Training ML model for BTCUSDT 1h...
+2025-11-03 10:15:36 - trading_system - INFO - [price_predictor.py:101] - Model random_forest for BTCUSDT 1h: R² = -0.1087
+2025-11-03 10:15:37 - trading_system - INFO - [price_predictor.py:101] - Model gradient_boosting for BTCUSDT 1h: R² = -0.1740
+2025-11-03 10:15:41 - trading_system - INFO - [price_predictor.py:101] - Model xgboost for BTCUSDT 1h: R² = -0.4387
+2025-11-03 10:15:41 - trading_system - INFO - [price_predictor.py:109] - 🎯 Best model for BTCUSDT 1h: random_forest (R² = -0.1087)
+2025-11-03 10:15:41 - trading_system - INFO - [main.py:66] - Training ML model for ETHUSDT 1h...
+2025-11-03 10:15:42 - trading_system - INFO - [price_predictor.py:101] - Model random_forest for ETHUSDT 1h: R² = 0.0044
+2025-11-03 10:15:43 - trading_system - INFO - [price_predictor.py:101] - Model gradient_boosting for ETHUSDT 1h: R² = -0.0980
+2025-11-03 10:15:51 - trading_system - INFO - [price_predictor.py:101] - Model xgboost for ETHUSDT 1h: R² = 0.0114
+2025-11-03 10:15:51 - trading_system - INFO - [price_predictor.py:109] - 🎯 Best model for ETHUSDT 1h: xgboost (R² = 0.0114)
+2025-11-03 10:15:51 - trading_system - INFO - [price_predictor.py:201] - 💾 Models saved to ml_models
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:72] - ✅ ML model training completed!
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:314] - 🧪 Step 4: Running backtests...
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:80] - 🧪 Running comprehensive backtests...
+2025-11-03 10:15:51 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:100] - Backtest MovingAverageCrossover BTCUSDT 1h: Return: -0.52%, Trades: 5, Win Rate: 20.0%
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:100] - Backtest RSIStrategy BTCUSDT 1h: Return: -0.47%, Trades: 6, Win Rate: 33.3%
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:100] - Backtest MovingAverageCrossover BTCUSDT 4h: Return: -0.04%, Trades: 2, Win Rate: 50.0%
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:100] - Backtest RSIStrategy BTCUSDT 4h: Return: -0.14%, Trades: 3, Win Rate: 33.3%
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:100] - Backtest MovingAverageCrossover ETHUSDT 1h: Return: -1.39%, Trades: 6, Win Rate: 16.7%
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:100] - Backtest RSIStrategy ETHUSDT 1h: Return: -1.20%, Trades: 4, Win Rate: 25.0%
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:100] - Backtest MovingAverageCrossover ETHUSDT 4h: Return: -0.30%, Trades: 2, Win Rate: 50.0%
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:100] - Backtest RSIStrategy ETHUSDT 4h: Return: 0.31%, Trades: 4, Win Rate: 75.0%
+2025-11-03 10:15:51 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for BTCUSDT
+2025-11-03 10:15:51 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for ETHUSDT
+2025-11-03 10:15:51 - trading_system - WARNING - [main.py:126] - ML strategy backtest skipped: MLStrategy.calculate_signals() missing 1 required positional argument: 'symbol'
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:318] - 💼 Step 5: Setting up live trading...
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:132] - 🤖 Setting up live trading bot...
+2025-11-03 10:15:51 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:15:51 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for BTCUSDT
+2025-11-03 10:15:51 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for ETHUSDT
+2025-11-03 10:15:51 - trading_system - INFO - [live_executor.py:300] - Added strategy: ML_Strategy
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:145] - ✅ ML strategy loaded for live trading
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for MovingAverageCrossover: {'fast_ma': 20, 'slow_ma': 50, 'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [live_executor.py:300] - Added strategy: MovingAverageCrossover
+2025-11-03 10:15:51 - trading_system - INFO - [base_strategy.py:38] - Set parameters for RSIStrategy: {'rsi_period': 14, 'rsi_oversold': 30, 'rsi_overbought': 70}
+2025-11-03 10:15:51 - trading_system - INFO - [live_executor.py:300] - Added strategy: RSIStrategy
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:155] - 🟡 Live trading bot READY (trading DISABLED for safety)
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:156] - 💡 Call trading_bot.enable_trading() to activate live trading
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:322] - 📡 Step 6: Starting real-time monitoring...
+2025-11-03 10:15:51 - trading_system - INFO - [main.py:164] - 📡 Setting up real-time monitoring...
+2025-11-03 10:15:51 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:15:51 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:15:52 - trading_system - WARNING - [main.py:237] - Could not set alerts for BTCUSDT: Instance <Kline at 0x71e794f4a0c0> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:193] - Added price alert: BTCUSDT above 100000
+2025-11-03 10:15:52 - trading_system - WARNING - [main.py:237] - Could not set alerts for ETHUSDT: Instance <Kline at 0x71e794f4a360> is not bound to a Session; attribute refresh operation cannot proceed (Background on this error at: https://sqlalche.me/e/20/bhk3)
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:193] - Added price alert: ETHUSDT above 100000
+2025-11-03 10:15:52 - trading_system - INFO - [main.py:325] - ✅ SYSTEM READY!
+2025-11-03 10:15:52 - trading_system - INFO - [main.py:326] - 🎯 Real-time monitoring ACTIVE
+2025-11-03 10:15:52 - trading_system - INFO - [main.py:327] - 🤖 ML models TRAINED
+2025-11-03 10:15:52 - trading_system - INFO - [main.py:328] - 💼 Live trading READY (disabled for safety)
+2025-11-03 10:15:52 - trading_system - INFO - [main.py:329] - ============================================================
+2025-11-03 10:15:52 - trading_system - INFO - [main.py:330] - 💡 To enable live trading, call: trading_bot.enable_trading()
+2025-11-03 10:15:52 - trading_system - INFO - [main.py:331] - ============================================================
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:157] - 🚀 Started monitoring 4 streams on MAINNET
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_1m
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: btcusdt@kline_5m
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_1m
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:39] - 🔌 Connecting to: ethusdt@kline_5m
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: ethusdt@kline_1m
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: btcusdt@kline_5m
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: ethusdt@kline_5m
+2025-11-03 10:15:52 - trading_system - INFO - [websocket_collector.py:54] - ✅ Connected to: btcusdt@kline_1m
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:64] - Processed 1 klines
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:16:00 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for BTCUSDT 1m
+2025-11-03 10:16:00 - trading_system - INFO - [pattern_monitor.py:46] - 🔍 NEW Pattern: SUPPORT (bullish) for BTCUSDT 1m - Confidence: 0.80
+2025-11-03 10:16:00 - trading_system - INFO - [pattern_monitor.py:46] - 🔍 NEW Pattern: RESISTANCE (bearish) for BTCUSDT 1m - Confidence: 0.80
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:16:00 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for BTCUSDT
+2025-11-03 10:16:00 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for ETHUSDT
+2025-11-03 10:16:00 - trading_system - INFO - [main.py:199] - 🤖 ML Prediction BTCUSDT: up (confidence: 0.95)
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:16:00 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:16:00 - trading_system - INFO - [websocket_collector.py:267] - ALERT TRIGGERED: 🚨 ALERT: BTCUSDT broke above $100,000
+Symbol: BTCUSDT
+Current Price: $109628.67
+Time: 2025-11-03 10:16:00
+2025-11-03 10:16:00 - trading_system - INFO - [main.py:275] - 📊 BTCUSDT 1m: $109628.67
+2025-11-03 10:16:00 - trading_system - INFO - [websocket_collector.py:74] - 📊 BTCUSDT 1m: $109628.67
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:64] - Processed 1 klines
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:16:00 - trading_system - INFO - [pattern_detector.py:58] - Detected 14 patterns for ETHUSDT 1m
+2025-11-03 10:16:00 - trading_system - INFO - [pattern_monitor.py:46] - 🔍 NEW Pattern: SUPPORT (bullish) for ETHUSDT 1m - Confidence: 0.80
+2025-11-03 10:16:00 - trading_system - INFO - [pattern_monitor.py:46] - 🔍 NEW Pattern: RESISTANCE (bearish) for ETHUSDT 1m - Confidence: 0.80
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:16:00 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for BTCUSDT
+2025-11-03 10:16:00 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for ETHUSDT
+2025-11-03 10:16:00 - trading_system - INFO - [main.py:199] - 🤖 ML Prediction ETHUSDT: up (confidence: 0.95)
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:16:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:16:00 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:16:00 - trading_system - INFO - [main.py:275] - 📊 ETHUSDT 1m: $3832.88
+2025-11-03 10:16:00 - trading_system - INFO - [websocket_collector.py:74] - 📊 ETHUSDT 1m: $3832.88
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:64] - Processed 1 klines
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:17:00 - trading_system - INFO - [pattern_detector.py:58] - Detected 13 patterns for BTCUSDT 1m
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:17:00 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for BTCUSDT
+2025-11-03 10:17:00 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for ETHUSDT
+2025-11-03 10:17:00 - trading_system - INFO - [main.py:199] - 🤖 ML Prediction BTCUSDT: up (confidence: 0.95)
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:17:00 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:17:00 - trading_system - INFO - [main.py:275] - 📊 BTCUSDT 1m: $109551.69
+2025-11-03 10:17:00 - trading_system - INFO - [websocket_collector.py:74] - 📊 BTCUSDT 1m: $109551.69
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:64] - Processed 1 klines
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:17:00 - trading_system - INFO - [pattern_detector.py:58] - Detected 14 patterns for ETHUSDT 1m
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:17:00 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for BTCUSDT
+2025-11-03 10:17:00 - trading_system - INFO - [price_predictor.py:220] - 📂 Loaded model for ETHUSDT
+2025-11-03 10:17:00 - trading_system - INFO - [main.py:199] - 🤖 ML Prediction ETHUSDT: up (confidence: 0.95)
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:17:00 - trading_system - INFO - [db_manager.py:31] - Database tables created successfully
+2025-11-03 10:17:00 - trading_system - INFO - [indicator_calculator.py:32] - Calculated 18 indicators
+2025-11-03 10:17:00 - trading_system - INFO - [main.py:275] - 📊 ETHUSDT 1m: $3827.93
+2025-11-03 10:17:00 - trading_system - INFO - [websocket_collector.py:74] - 📊 ETHUSDT 1m: $3827.93
+2025-11-03 10:17:08 - trading_system - INFO - [websocket_collector.py:172] - 🔚 WebSocket monitoring stopped
+2025-11-03 10:17:08 - trading_system - INFO - [main.py:346] - 🔚 System shutdown completed
+2025-11-03 10:17:08 - trading_system - INFO - [websocket_collector.py:167] - 🛑 Monitoring stopped
